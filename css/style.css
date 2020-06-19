@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+body{
+    margin: auto 5%;
+}
+
+#header{
+    height: 125px;
+    width: 100%;
+    background-color: #14c2e7;
+}
+h1{
+    color: tomato;
+   
+    display: inline;
+    border-radius: 2%;
+    text-shadow: 3px 4px 0 black;
+    font-size: 100px;
+    text-align: center;
+    margin: 20px;
+}
+
+span{
+    color: white;
+}
+
+.container{
+    height: 1500px;
+    width: 100%;
+    background-color: white;
+}
+.main{
+    height: 1500px;
+    width: 100%;
+    background-color: white;
+    
+}
+.banar{
+    height: 600px;
+    width: 100%;
+    background-color:#181a17;
+}
+.banar h2{
+    height: 200px;
+    width: 100%;
+    font-size: 200px;
+    text-align: center;
+    color: #fcbbc1;
+    text-shadow: 6px 8px 0 #ff418a,8px 10px 0 #5d2145,+12px 14px 0 #5c2248;
+    font-family:Myriad Pro;
+    font-style: italic;
+    text-transform: uppercase;
+}
+.contant01{
+    height: 200px;
+    width: 100%;
+    background-color:#ffffff;
+   
+}
+.blog h3{
+    height: 100px;
+    width: 100%;
+    font-size: 150px;
+    text-align: center;
+    color: #ff6765;
+    text-shadow: -6px 8px 0 #fcbbc1;
+    font-family:Myriad Pro;
+    text-transform: uppercase;
+    margin-top: -100px;
+}
+.contant02{
+    height: 200px;
+    width: 100%;
+    background-color:#ffffff;
+   margin-top: 50px;
+}
+.blog h4{
+    height: 100px;
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+    color: #020202;
+    text-shadow: -6px 8px 2px #fcbbc1;
+    font-family:Myriad Pro;
+    text-transform: uppercase;
+}
+.text-banar{
+    height: 600px;
+    width: 100%;
+    background-color:#181a17;
+    
+    
+
+}
+.blog-1{display: inline-flex;}
+.one h4{    
+    color: #fefff3;
+    margin: 100px 100px;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 8px 6px 10px #d07f48;
+    font-family:Myriad Pro;
+    text-transform: uppercase;
+}
+
+
+    .two h4{   
+        color: #919191;
+        margin: 100px 100px;
+        font-size: 50px;
+        text-align: center;
+        text-shadow: 8px -8px 18px #3b3b3b;
+        font-family:Myriad Pro;
+        text-transform: uppercase;
+    }
+
+
+    .three h4{   
+        color: #edfffa;
+        margin: 100px 100px;
+        font-size: 50px;
+        text-align: center;
+        text-shadow: 8px 6px 10px #b05179;
+        font-family:Myriad Pro;
+        text-transform: uppercase;
+    }
+    .blog-2{display: inline-flex;}
+    .four h4{   
+        color: #860500;
+        margin: 100px 100px;
+        font-size: 50px;
+        text-align: center;
+        text-shadow: 8px 6px 10px #2989a2;
+        font-family:Myriad Pro;
+        text-transform: uppercase;
+    }
+
+    .five h4{   
+        color: #94a3de;
+        margin: 100px 100px;
+        font-size: 50px;
+        text-align: center;
+        text-shadow: 8px 6px 10px #606a8e;
+        font-family:Myriad Pro;
+        text-transform: uppercase;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.blog-2 h4{
+    color: #fefff3;
+    display: inline;
+    margin: 350px 100px;
+    font-size: 50px;
+    text-align: center;
+    color: #ff6765;
+    text-shadow: 6px 8px 10px #fcbbc1;
+    font-family:Myriad Pro;
+    text-transform: uppercase;
+    
+}
+
+#footer{
+    height: 50px;
+    width: 100%;
+    background-color: #14c2e7;
+}
